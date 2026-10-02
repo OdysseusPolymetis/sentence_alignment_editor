@@ -1,0 +1,7 @@
+# PyTorch GPU est installé séparément avec la wheel CUDA adaptée.
+numpy
+pandas
+scipy
+scikit-learn
+sentence-transformers
+streamlit
